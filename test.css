@@ -1,0 +1,14 @@
+h1{
+    /* Test police */
+    font-size: 250px;
+} 
+
+#nom-titre{
+    /* Couleur titre */
+    background: rgb(255, 0, 0);
+}
+
+.red{
+    /* couleur du texte */
+    color: rgb(234, 255, 0);
+}
